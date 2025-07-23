@@ -1,0 +1,12 @@
+{
+  "name": "t4-stack-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "pnpm run --parallel dev"
+  },
+  "keywords": [],
+  "author": "SergeantO",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1"
+}
