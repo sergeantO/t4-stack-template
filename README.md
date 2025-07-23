@@ -786,7 +786,7 @@ export async function GroupsPage() {
 После завершения руководства я создам шаблон проекта, который можно будет установить через [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit github:yourusername/t4-stack-template my-project
+npx degit github:sergeantO/t4-stack-template my-project
 ```
 
 Шаблон будет включать всю настроенную конфигурацию из этой статьи, что позволит сразу начать разработку.
